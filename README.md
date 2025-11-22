@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Marcos
 
-<!--
-**Marcossecurity/Marcossecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de cibersegurança focado em redes, Linux e pentest; construindo portfólio com TryHackMe, labs de redes e Python.  
+Busco estágio/trainee em suporte, SOC ou segurança ofensiva.
 
-Here are some ideas to get you started:
+## Habilidades
+- Redes: TCP/IP, DHCP, ARP, ICMP, Packet Tracer
+- Linux: linha de comando, automação básica, WSL
+- Segurança: enumeração, write-ups de labs, boas práticas
+- Python: scripts simples (ex.: port scanner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos e estudos
+-Cyberops
+-CCNA1
+
+## Contato
+- Email: marcosviniciusfernandeslima66@gmail.com
+- LinkedIn: (adicione o link aqui)
