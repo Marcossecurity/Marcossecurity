@@ -30,5 +30,5 @@ Busco estágio/trainee em suporte, SOC ou segurança ofensiva.
 - CCNA1
 
 ## Contato
-- Email: marcosviniciusfernandeslima66@gmail.com
+- Email: mviniciusfernandeslima@gmail.com
 - LinkedIn: (adicione o link aqui)
